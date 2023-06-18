@@ -5,3 +5,4 @@ Useful roadmaps for learning anything from algorithms to full-stack development.
 - Data Structures and Algorithms in Python
 - HFT's in Rust/ C++
 - AI
+- JavaScript/ TypeScript
