@@ -6,3 +6,4 @@ Useful roadmaps for learning anything from algorithms to full-stack development.
 - HFT's in Rust/ C++
 - AI
 - JavaScript/ TypeScript
+- AWS
