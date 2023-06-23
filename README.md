@@ -8,4 +8,6 @@ Useful roadmaps for learning anything from algorithms to full-stack development.
 - JavaScript/ TypeScript
 - AWS
 
+## Optional
 - Operating Systems
+- Backend development
