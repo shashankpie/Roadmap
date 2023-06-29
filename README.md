@@ -13,3 +13,4 @@ Useful roadmaps for learning anything from algorithms to full-stack development.
 - Backend Development
 - Web Security
 - Computer Networks
+- Computer organization and architecture
